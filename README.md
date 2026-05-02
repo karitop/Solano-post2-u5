@@ -3,8 +3,11 @@
 Descripción de la VM creada
 
 Nombre: Lab5-Alpine
+
 Sistema operativo: Alpine Linux 3.19 (64-bit)
+
 RAM: 1024 MB (1 GB)
+
 Disco duro: 10 GB 
 
 
