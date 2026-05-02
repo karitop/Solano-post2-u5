@@ -32,9 +32,13 @@ Acceso desde anfitrión: Sí
 Árbol de snapshots
 
 Lab5-Alpine
+
 └── snap_base
+
       Descripción: Alpine Linux 3.19 recién instalado, sin modificaciones
+      
       └── snap_con_herramientas
+      
             Descripción: Alpine con curl, wget, nano y htop instalados
 
 
